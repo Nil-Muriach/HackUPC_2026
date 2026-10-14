@@ -1,6 +1,6 @@
-# Mecalux Layout Optimizer
+# LuxSpace
 
-> **HackUPC 2026** — Warehouse storage layout optimization with an interactive web editor.
+> **HackUPC 2026** — Mecalux Layout Optimizer, a warehouse storage layout optimization with an interactive web editor.
 
 An end-to-end system that solves the Mecalux warehouse packing challenge:
 given a warehouse polygon, obstacles, a ceiling profile, and a catalog of
