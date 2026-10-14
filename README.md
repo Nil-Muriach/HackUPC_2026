@@ -175,3 +175,8 @@ Output: `solution.csv` + JSON summary + ASCII visualization.
 | [`README.md`](README.md) | Quick-start guide (this file) |
 | [`algorithm_deep_dive.md`](algorithm_deep_dive.md) | Scoring formula, solver phases, constraints, improvements |
 | [`project_overview.md`](project_overview.md) | Full module-by-module reference |
+
+## Authors
+- Ilyas Ouacham Rhailane
+- Nil Muriach López
+- Marie-Anne Boter Plana
